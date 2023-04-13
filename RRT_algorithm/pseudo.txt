@@ -1,0 +1,12 @@
+Importing dependencies
+Functions
+    --- Linear equation -- get slope and constant b
+    --- get_det(linear_coeff and circle_coeff) -- 
+            used to check if obstacle collide with a trajectory
+    --- euclid_dist -- used to check if the distance
+            between the start and goal
+    --- check_intersection
+    --- return path -- Construct the path by backtracking
+Setup parameters required for algorithm
+Main loop
+Extract solution and save in csv file
