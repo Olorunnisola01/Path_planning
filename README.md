@@ -74,7 +74,7 @@ The Rapidly-exploring Random Tree (RRT) algorithm is an efficient path planning 
   - `path.csv`: The computed path from the start to the goal.
 - `RRT_algorithm/Screenshot.JPG`: A screenshot showing the results of the RRT algorithm.
 
-< imgsrc ![RRT Algorithm Results](RRT_algorithm/Screenshot.JPG) />
+![RRT Algorithm Results](RRT_algorithm/Screenshot.JPG)
 
 
 ### Results
