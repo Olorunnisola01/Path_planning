@@ -58,7 +58,7 @@ The Probabilistic Roadmap (PRM) algorithm is used for robot path planning in hig
   - `path.csv`: The computed path from the start to the goal.
 - `PRM/screenshot.png`: A screenshot showing the results of the PRM algorithm.
 
-![PRM Algorithm Results](PRM/screenshoot.png)
+![PRM Algorithm Results](PRM/screenshot.png)
 
 ### Rapidly-exploring Random Tree (RRT)
 
