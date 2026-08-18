@@ -1,6 +1,6 @@
 # Path Planning Algorithms for Obstacle Avoidance
 
-This repository contains implementations of various motion planning algorithms for obstacle avoidance, developed as part of the Modern Robotics, Course 4: Robot Motion Planning and Control. The algorithms included are the A* Algorithm, Probabilistic Roadmap (PRM), and Rapidly-exploring Random Tree (RRT). These algorithms, fundamental in robotics for navigating environments while avoiding obstacles, are implemented in CoppeliaSim.
+This repository contains implementations of various motion planning algorithms for obstacle avoidance, developed as part of the Modern Robotics, Course 4: Robot Motion Planning and Control. The algorithms included are the A* Algorithm, Probabilistic Roadmap (PRM), and Rapidly-exploring Random Tree (RRT). These algorithms, fundamental in robotics for navigating environments while avoiding obstacles, are implemented in CoppeliaSim..
 
 ## Directory Structure
 
